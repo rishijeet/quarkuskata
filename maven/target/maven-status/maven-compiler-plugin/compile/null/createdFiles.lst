@@ -1,0 +1,4 @@
+com/example/service/ClaimService.class
+com/example/ClaimResource.class
+com/example/GreetingResource.class
+com/example/model/Claim.class

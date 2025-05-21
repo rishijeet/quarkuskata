@@ -1,0 +1,46 @@
+# Build output
+/target/
+/build/
+/bin/
+/out/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.class
+
+# Logs
+*.log
+logs/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+.mvn/wrapper/
+
+# Quarkus
+quarkus-app/
+*-runner
+*-runner.jar
+
+# Environment files
+.env
+*.env 
